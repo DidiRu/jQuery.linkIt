@@ -1,0 +1,33 @@
+{
+    "name": "linkIt",
+    "title": "LinkIt jQuery Plugin",
+    "description": "Simple Plugin to convert any element to link.",
+    "keywords": [
+        "link",
+        "html",
+        "content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Drini Rucaj",
+        "url": "http://techguywebsolutions.com"
+    },
+    "maintainers": [
+        {
+            "name": "Drini Rucaj",
+            "email": "drini_rucaj@hotmail.com",
+            "url": "http://techguywebsolutions.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/DidiRu/jQuery.linkIt/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/DidiRu/jQuery.linkIt",
+    "docs": "https://github.com/DidiRu/jQuery.linkIt",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
